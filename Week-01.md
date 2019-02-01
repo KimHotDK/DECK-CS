@@ -12,4 +12,4 @@
  - Kunne redegøre for begrebet unit-test
  - Kunne beskrive og demonstrere brug af JUnit til unit test af Java kode
 
-Af: Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
+_Italic_ Af: Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
