@@ -13,6 +13,7 @@ Dag 1
  - Kunne beskrive og demonstrere brug af basalle test-mønstre til udvikling af test cases
  - Kunne redegøre for begrebet unit-test
  - Kunne beskrive og demonstrere brug af JUnit til unit test af Java kode
+
 Dag 2
 - Kunne redegøre for hvilke aspekter af software udvikling som adresseres af Maven 
 - Kunne redegøre for problemstillinger dette semester som kræver et værktøj som Maven
@@ -21,6 +22,7 @@ Dag 2
 - Kunne  demonstrere brug af Maven til, uafhængigt af et IDE, bygge, teste, og afvikle Java Software
 - Kunne beskrive og demonstrerer afvikling af henholdsvis unittests og integrationtests via Maven
 - Kunne beskrive og demonstrere automatisk test af et WEB-API ved hjælp af Maven
+
 Dag 3
 - Kunne redegøre for begrebet Test Driven Development
 - Kunne redegøre for problemstillingen ""It works on my machinge ..""
