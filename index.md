@@ -1,5 +1,4 @@
-<p align="center">
-<b>DECK-CS</b><br> <p/>
+# DECK-CS
 This respitory is for the group DECK-CS.
 It will be used for the group during 3. semester at CPH Business Academy.
 
