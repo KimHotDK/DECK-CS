@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Agenda til review mandag d. 04/02-2019 kl. 12:30
 
-You can use the [editor on GitHub](https://github.com/KimHotDK/DECK-CS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Link til gruppens review](URL) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
 
-### Markdown
+### Læringsmål denne uge: ###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dag 1
+ - Kunne forklare generelt om begrebet Test og hvornår der hensigtsmæssigt bør testes (Kim)
+ - Kunne redegøre for ide'en bag Mike Cohn's test-pyramide (Kim)
+ - Kunne redegøre for principet bag TDD (Kim)
+ - Kunne beskrive og demonstrere brug af basalle test-mønstre til udvikling af test cases (Kim)
+ - Kunne redegøre for begrebet unit-test (Kim)
+ - Kunne beskrive og demonstrere brug af JUnit til unit test af Java kode (Kim)
 
-```markdown
-Syntax highlighted code block
+Dag 2
+- Kunne redegøre for hvilke aspekter af software udvikling som adresseres af Maven (Dan)
+- Kunne redegøre for problemstillinger dette semester som kræver et værktøj som Maven (Dan)
+- Kunne beskrive Mavens tre lifecycles (Dan)
+- Kunne forklare Maven begreberne Project Object Model (POM), lifecycles samt plugins (Dan)
+- Kunne  demonstrere brug af Maven til, uafhængigt af et IDE, bygge, teste, og afvikle Java Software (Dan)
+- Kunne beskrive og demonstrerer afvikling af henholdsvis unittests og integrationtests via Maven (Dan)
+- Kunne beskrive og demonstrere automatisk test af et WEB-API ved hjælp af Maven (Dan)
 
-# Header 1
-## Header 2
-### Header 3
+Dag 3
+- Kunne redegøre for begrebet Test Driven Development (Esben)
+- Kunne redegøre for problemstillingen ""It works on my machinge .."" (Esben)
+- Kunne beskrive begrebet Continuous Integration og principper involveret(CI) (Esben)
+- Kunne beskrive et typisk CI Workflow (Esben)
+- Kunne beskrive begreberne, og forskellen imellem, Continuous Integration, Continuous Delivery og Continuous Deployment  (Esben)
+- Kunne demonstrere et simpelt CI eksempel/scenario afviklet på Travis (Casper)
+- Kunne demonstrere et eksempel, involverende både unit og integrations test, afviklet på Travis (Casper)
+- Kunne demonstrere et eksempel, involverende både unit/integrations-test, samt deployment afviklet af Travis" (Casper)
 
-- Bulleted
-- List
+Spørgsmål til og demo fra læreren:
+- intet endnu
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KimHotDK/DECK-CS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Af: Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - **DECK-CS ©2019**_
