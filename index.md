@@ -11,10 +11,9 @@ Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 The group is: 
 <br>
 
-
-Billede | Navn | Github Navn
+Billede | Navn | Github Navn 
 ------------ | ------------- | ------------- 
-<img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU)  
+ <img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU)  
 <img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno)  
 <img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02)
 <img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK)
