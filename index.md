@@ -1,5 +1,5 @@
 <p align="center">
-<b>DECK-CS</b><br>
+<b>DECK-CS</b>
 This respitory is for the group DECK-CS.
 It will be used for the group during 3. semester at CPH Business Academy.
 
@@ -10,4 +10,4 @@ Uge 2| 11-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week3) 
 Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
-The gruop is: Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
+The group is: Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
