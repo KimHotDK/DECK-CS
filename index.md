@@ -13,7 +13,7 @@ The group is:
 
 
 Billede | Navn | Github Navn
------------- | ------------- | -------------
+------------ | ------------- | ------------- 
 <img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU)  
 <img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno)  
 <img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02)
