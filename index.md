@@ -9,6 +9,7 @@ Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
 ### Members of DECK-CS
+
 Billede | Navn | Github link 
 ------------ | ------------- | ------------- 
 <img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU)  
