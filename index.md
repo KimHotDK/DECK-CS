@@ -9,16 +9,17 @@ Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
 The group is: 
+
 <img src="Dan-resized.jpg" width="100"/>  
-*Dan Tomicic:* GodLikeCPU  
+**Dan Tomicic:** _GodLikeCPU_  
   
 <img src="Esben-resized.jpg" width="100"/>  
-*Esben Dalgaard:* Edduno  
+**Esben Dalgaard:** _Edduno_  
   
 <img src="Casper-resized.jpg" width="100"/>  
-*Casper Marx:* Marx02
+**Casper Marx:** _Marx02_
   
 <img src="Kim-resized.jpg" width="100"/>  
-*Kim P. Pedersen:* KimHotDK 
+**Kim P. Pedersen:** _KimHotDK_ 
 
 ### DECK-CS ©2019
