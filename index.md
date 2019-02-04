@@ -14,7 +14,7 @@ The group is:
 **Dan Tomicic:** _GodLikeCPU_  
   
 <img src="Esben2-resized.jpg" width="100"/>  
-**Esben Dalgaard:** _Edduno_  
+**Esben Dalgaard:** _Edunno_  
   
 <img src="Casper-resized.jpg" width="100"/>  
 **Casper Marx:** _Marx02_
