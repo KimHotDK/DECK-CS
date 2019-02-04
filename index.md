@@ -17,7 +17,6 @@ Billede | Navn | Github Navn
 <img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno)  
 <img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02)
 <img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK)
-
 <br>
 <img src="48390921_2236580056373541_3832447443329351680_n-resized.jpg" width="700"/>  
 **DECK-CS ©2019**
