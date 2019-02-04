@@ -10,6 +10,7 @@ Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 
 The group is: 
 <br>
+
 Billede | Navn | Github Navn
 ------------ | ------------- | -------------
 <img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | _GodLikeCPU_  
