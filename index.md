@@ -9,4 +9,16 @@ Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
 The group is: 
-Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
+<img src="Dan-resized.jpg" width="100"/>  
+*Dan Tomicic:* GodLikeCPU  
+  
+<img src="Esben-resized.jpg" width="100"/>  
+*Esben Dalgaard:* Edduno  
+  
+<img src="Casper-resized.jpg" width="100"/>  
+*Casper Marx:* Marx02
+  
+<img src="Kim-resized.jpg" width="100"/>  
+*Kim P. Pedersen:* KimHotDK 
+
+### DECK-CS ©2019
