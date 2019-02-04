@@ -9,5 +9,4 @@ Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
 The group is: 
-Format: ![Casper Marx](https://deck-cs.dk/billeder/Casper-resized.jpg)
 Dan Tomicic, Esben Dalgaard, Casper Marx og Kim P. Pedersen - DECK-CS ©2019
