@@ -7,8 +7,8 @@ Uge | Review dato | Link
 ------------ | ------------- | -------------
 Uge 1| 04-02-2019 | [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week1) 
 Uge 2| 11-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week2) 
-Uge 2| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week3) 
-Uge 2| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
+Uge 3| 18-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week3) 
+Uge 4| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-CS/week4) 
 
 ### Members of DECK-CS:
 
