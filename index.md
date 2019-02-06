@@ -19,6 +19,7 @@ Billede | Navn | GITHUB Link
 <img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02)
 <img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK)
 
+### Link to DECK-CS group agreement :
 [Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
 
 ### Picture of the group:
