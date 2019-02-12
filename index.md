@@ -12,12 +12,12 @@ Uge 4| 25-02-2019 |  [Link til gruppens review](https://kimhotdk.github.io/DECK-
 
 ### Members of DECK-CS:
 
-Billede | Navn | GITHUB Link | Droplet Link 
------------- | ------------- | ------------- | -------------
-<img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU) | [_www.DanT.ninja_](https://DanT.ninja)
-<img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno) | [_www.kognetiv.dk_](https://Kognetiv.dk)
-<img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02) | [_www.ManBearPig.dk_](https://ManBearPig.dk)
-<img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK) | [_www.testprogram.dk_](https://testprogram.dk)
+Billede | Navn | GITHUB Link
+------------ | ------------- | -------------
+<img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU)
+<img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno)
+<img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02)
+<img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK)
 
 ### Link to DECK-CS group agreement :
 [Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
