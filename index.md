@@ -17,7 +17,7 @@ Billede | Navn | GITHUB Link | Droplet Link
 <img src="Dan-resized.jpg" width="100"/> |  **Dan Tomicic:** | [_GodLikeCPU_](https://github.com/GodLikeCPU) | [_www.DanT.ninja_](https://DanT.ninja)
 <img src="Esben2-resized.jpg" width="100"/> | **Esben Dalgaard:** | [_Edunno_](https://github.com/Edunno) | [_www.Kognetiv.dk_](https://Kognetiv.dk)
 <img src="Casper-resized.jpg" width="100"/> | **Casper Marx:** | [_Marx02_](https://github.com/Marx02) | [_www.ManBearPig.dk_](https://ManBearPig.dk)
-<img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK) | [_www.testprogram.dk_](https://testprogram.dk)
+<img src="Kim-resized.jpg" width="100"/> | **Kim P. Pedersen:** | [_KimHotDK_](https://github.com/KimHotDK) | [_testprogram.dk_](https://testprogram.dk)
 
 ### Link to DECK-CS group agreement :
 [Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
