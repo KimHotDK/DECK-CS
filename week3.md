@@ -1,4 +1,4 @@
-<img src="Banner-top-DCS.png" width="400" align="center"/>  
+<img src="Banner-top-DCS.png" width="500" align="center"/>  
 
 ### Agenda til review mandag d. 18/02-2019 kl. 12:30 ###
 
