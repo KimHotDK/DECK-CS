@@ -1,22 +1,23 @@
 <img src="Banner-top-DCS.png" width="400" align="center"/>  
 
-# Agenda til review mandag d. 18/02-2019 kl. 12:30 #
+## Agenda til review mandag d. 18/02-2019 kl. 12:30 ##
 
 ### Demo: ###
 
 [Link til CA1](https://testprogram.dk/CA1/) 
 
-### Sider: ###
+### Opgaver: ###
 
-[Index.html](https://testprogram.dk/CA1/)
+1. Main page - [Index.html](https://testprogram.dk/CA1/)
 
-[Calculator](https://testprogram.dk/CA1/calculate.html) 
+2. Calculator - [Calculator](https://testprogram.dk/CA1/calculate.html) 
 
-[Calculator WEB-API](https://testprogram.dk/CA1/) 
+3.  Using the simple Calculator API, implemented week 1 - [Calculator WEB-API](https://testprogram.dk/CA1/) 
 
-[Dynamic UI manipulation](https://testprogram.dk/CA1/DynamicUIMan.html) 
+4. Dynamic UI manipulation - [Dynamic UI manipulation](https://testprogram.dk/CA1/DynamicUIMan.html) 
 
-[Dynamic UI manipulation with fecth](https://testprogram.dk/CA1/DynamicUIManWithFetch.html) 
+5. Dynamic UI manipulation with data obtained via fetch
+- [Dynamic UI manipulation with fecth](https://testprogram.dk/CA1/DynamicUIManWithFetch.html) 
 
 ### Læringsmål denne uge: ###
 
