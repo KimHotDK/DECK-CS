@@ -30,5 +30,5 @@ Agenda til review mandag d. 18/02-2019 kl. 12:30
 ### Link to DECK-CS group agreement :
 [Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
 
-<img src="Banner-top-DCS.pnh" width="700" align="center"/>  
+<img src="Banner-top-DCS.png" width="700" align="center"/>  
 **DECK-CS ©2019**
