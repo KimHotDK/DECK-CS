@@ -16,8 +16,7 @@
 
 4. Dynamic UI manipulation - [Dynamic UI manipulation](https://testprogram.dk/CA1/DynamicUIMan.html) 
 
-5. Dynamic UI manipulation with data obtained via fetch
-- [Dynamic UI manipulation with fecth](https://testprogram.dk/CA1/DynamicUIManWithFetch.html) 
+5. Dynamic UI manipulation with data obtained via fetch - [Dynamic UI manipulation with fecth](https://testprogram.dk/CA1/DynamicUIManWithFetch.html) 
 
 ### Læringsmål denne uge: ###
 
