@@ -6,10 +6,14 @@ Agenda til review mandag d. 18/02-2019 kl. 12:30
 
 ### Sider: ###
 
-[Index.html](https://testprogram.dk/CA1/) 
+[Index.html](https://testprogram.dk/CA1/)
+
 [https://testprogram.dk/CA1/calculate.html](https://testprogram.dk/CA1/calculate.html) 
+
 [Calculator WEB-API](https://testprogram.dk/CA1/) 
+
 [Dynamic UI manipulation](https://testprogram.dk/CA1/DynamicUIMan.html) 
+
 [Dynamic UI manipulation with fecth](https://testprogram.dk/CA1/DynamicUIManWithFetch.html) 
 
 ### Læringsmål denne uge: ###
