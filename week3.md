@@ -8,7 +8,7 @@ Agenda til review mandag d. 18/02-2019 kl. 12:30
 
 [Index.html](https://testprogram.dk/CA1/)
 
-[https://testprogram.dk/CA1/calculate.html](https://testprogram.dk/CA1/calculate.html) 
+[Calculator](https://testprogram.dk/CA1/calculate.html) 
 
 [Calculator WEB-API](https://testprogram.dk/CA1/) 
 
@@ -27,4 +27,8 @@ Agenda til review mandag d. 18/02-2019 kl. 12:30
 - Kunne demonstrere egne kodeeksempler med DOM-interaktion, herunder element udvælgelse, styling og håndtering af tags, attributter og formulardata
 - Kunne demonstrere brug af fetch til serverkald og brug af json data til DOM manipulation
 
+### Link to DECK-CS group agreement :
 [Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
+
+<img src="Banner-top-DCS.pnh" width="700" align="center"/>  
+**DECK-CS ©2019**
