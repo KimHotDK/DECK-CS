@@ -6,7 +6,6 @@
 [Link til ](https://) 
 
 ### Link til individuele pgaver: ###
-
 [Link til Dan](https://github.com/godlikecpu) 
 
 [Link til Esben](https://github.com/Edunno) 
@@ -15,7 +14,7 @@
 
 [Link til Kim](https://github.com/KimHotDK/classicmodels) 
 
-### Læringsmål denne uge:###
+### Læringsmål denne uge:
 - Kunne redegøre for ORM frameworks generelt og deres pros/cons
 - Kunne redegøre for forskellen mellem JPA og andre persistensmetoder
 - Kunne redegøre for de mest brugte klasser og metoder i JPA
