@@ -7,10 +7,10 @@
 
 ### Link til individuele pgaver: ###
 
-[Link til Dan](https://)
-[Link til Esben](https://) 
-[Link til Casper](https://) 
-[Link til Kim](https://) 
+[Link til Dan](https://github.com/godlikecpu)
+[Link til Esben](https://github.com/Edunno) 
+[Link til Casper](https://github.com/Marx02) 
+[Link til Kim](https://github.com/KimHotDK/classicmodels) 
 
 ### Læringsmål denne uge:###
 - Kunne redegøre for ORM frameworks generelt og deres pros/cons
