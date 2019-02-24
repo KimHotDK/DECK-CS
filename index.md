@@ -24,4 +24,5 @@ Billede | Navn | GITHUB Link | Droplet Link
 
 ### Picture of the group:
 <img src="48390921_2236580056373541_3832447443329351680_n-resized.jpg" width="700"/>  
+
 ## DECK-CS ©2019
