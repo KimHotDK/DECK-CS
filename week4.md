@@ -18,6 +18,7 @@
 
 - Hvorfor kan "EntityManager em = emf.createEntityManager();" ikke ligge globalt?
 - Skal alle query's lukkes hver gang og hvorfor?
+- Se på hvorfor getCarById() ikke fungere (Kim)
 
 ### Læringsmål denne uge:
 
