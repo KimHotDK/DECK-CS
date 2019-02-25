@@ -15,6 +15,7 @@
 [Link til Kim](https://github.com/KimHotDK/classicmodels) 
 
 ### Læringsmål denne uge:
+
 Farve | Læringsmål | Hvem
 ------------ | ------------- | -------------
 Grøn | Kunne redegøre for ORM frameworks generelt og deres pros/cons | Kim 
