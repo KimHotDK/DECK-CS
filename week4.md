@@ -14,6 +14,11 @@
 
 [Link til Kim](https://github.com/KimHotDK/classicmodels) 
 
+### Spørgsmål til Lars: ###
+
+- Hvorfor kan "EntityManager em = emf.createEntityManager();" ikke ligge globalt?
+- Skal alle query's lukkes hver gang og hvorfor?
+
 ### Læringsmål denne uge:
 
 Farve | Læringsmål | Hvem
