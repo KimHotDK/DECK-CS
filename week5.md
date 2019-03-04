@@ -6,13 +6,18 @@
 [Link til ](https://) 
 
 ### Link til individuele pgaver: ###
+#### Dan ####
 [Link til Dans PetHospital](https://github.com/godlikecpu/pethospital) 
 
+#### Esben ####
 [Link til Esben](https://github.com/Edunno) 
 
+#### Casper ####
 [Link til Casper](https://github.com/Marx02) 
 
+#### Kim ####
 [Link til Kims Rest uge opgave](https://github.com/KimHotDK/restday1) 
+
 [Link til Kims PetHospital](https://github.com/KimHotDK/PetHospital) 
 
 ### Læringsmål denne uge:
