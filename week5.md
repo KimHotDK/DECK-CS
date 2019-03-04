@@ -7,7 +7,9 @@
 
 ### Link til individuele pgaver: ###
 #### Dan ####
-[Link til Dans PetHospital](https://github.com/godlikecpu/pethospital) 
+[Link til Dans ExamPrep1](https://github.com/godlikecpu/pethospital) 
+
+[Link til Dans ExamPrep2](https://github.com/godlikecpu/rdg)
 
 #### Esben ####
 [Link til Esben](https://github.com/Edunno) 
@@ -18,7 +20,7 @@
 #### Kim ####
 [Link til Kims Rest uge opgave](https://github.com/KimHotDK/restday1) 
 
-[Link til Kims PetHospital](https://github.com/KimHotDK/PetHospital) 
+[Link til Kims ExamPrep1](https://github.com/KimHotDK/PetHospital) 
 
 ### Læringsmål denne uge:
 
