@@ -35,7 +35,7 @@ Grøn | Kunne redegøre for korrekt JSON syntaks | Done | Plenum
 Gul | Kunne redegøre for DTO's og serialisering mellem Java objekter og JSON | Done | Plenum
 Grøn | Kunne konvertere frem og tilbage mellem Java objekter og JSON i egen kode | Done | Plenum
 Gul | Kunne vise med egne kodeeksempler, hvordan man håndterer html form input med POST og får det deserialiseret til JPA entiteter | Done | Plenum
-Gul | Kunne vise med egne kode eksempler hvordan man håndterer serialisering af ""bidirectional relationships"" mellem objekter" | Done | Plenum
+Gul | Kunne vise med egne kode eksempler hvordan man håndterer serialisering af "bidirectional relationships" mellem objekter" | Done | Plenum
 Gul | Kunne håndtere fejl, exceptions og responses i egen kode | Mangler | Plenum
 Grøn | Kunne forklare værdien i en entydig beskrivelse af et (REST) API,  | Done | Plenum
 Gul | og fremvise eksempler på en sådan" | Done | Plenum
