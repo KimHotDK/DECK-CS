@@ -26,7 +26,7 @@
 
 Farve | Læringsmål | Hvem
 ------------ | ------------- | -------------
-Grøn | Kunne redegøre for hvad Restfull webservices er | √
+Grøn | Kunne redegøre for hvad Restfull webservices er | N/A
 Gul | Kunne redegøre for konventioner ved opbygning af REST api'er | N/A
 Grøn | Kunne oprette et Java projekt med REST endpoints | N/A
 Gul | Kunne implementere kode indeholdende de mest grundlæggende REST annotationer | N/A
