@@ -15,6 +15,7 @@
 [Link til Kim](https://github.com/KimHotDK) 
 
 ### Læringsmål denne uge:
+
 Farve | Læringsmål | Opnået | Hvem
 ------------ | ------------- | ------------- | -------------
 XXXX | XXXX | XXXX | XXXX
