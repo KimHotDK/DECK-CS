@@ -19,7 +19,7 @@
 #### Kim ####
 [Link til Kims Rest uge opgave](https://github.com/KimHotDK/restday1) 
 
-[Link til Kims ExamPrep1](https://github.com/KimHotDK/PetHospital) 
+[Link til Kims ExamPrep1 (IKKE FÆRDIGT)](https://github.com/KimHotDK/PetHospital) 
 
 ### Læringsmål denne uge:
 
