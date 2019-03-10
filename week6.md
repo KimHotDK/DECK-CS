@@ -14,6 +14,14 @@
 
 [Link til Kim](https://github.com/KimHotDK) 
 
+Opgave | Hvem | Status | 
+------------ | ------------- | ------------- 
+Day 1 | Esben | Done 
+Day 2 | Kim | Not done 
+Day 3 | xxxxxxxx | Not done 
+Exam prep 1 | Dan | Done 
+Exam prep 2 | xxxxxxxx | Not done 
+
 ### Læringsmål denne uge:
 
 Farve | Læringsmål | Opnået | Hvem
