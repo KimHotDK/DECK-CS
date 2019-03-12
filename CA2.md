@@ -1,11 +1,11 @@
-<img src="Banner-top-DCS.png" width="700" align="center"/>  
+<img src="Banner-top-DCS.png" width="300" align="center"/>  
 
 ## Aflevering søndag d. 17/03-2019 kl. 23:59 ##
 
-[Opgave beskrivelse:](https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit#heading=h.aefrpf5cy8p)
+[Link til opgave beskrivelsen:](https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit#heading=h.aefrpf5cy8p)
 
 ### Demo: ###
-[Link til ](https://) 
+[Link til Github Repository](https://) 
 
 ### Opgaver ###
 
