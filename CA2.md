@@ -10,6 +10,10 @@
 
 [Link til Github Repository - CA2_SPA](https://github.com/KimHotDK/CA2_SPA) 
 
+### Diverse links ###
+
+[API Documentation](https://docs.google.com/spreadsheets/d/1Xd05O8lQSPbRX9c_u80ilQiFTlM0KEhtWvrSwxbFiWM/edit?usp=sharing)
+
 ---------------------------------------------------------
 ### Opgaver ###
 
