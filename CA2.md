@@ -44,7 +44,8 @@ SPA | XXXXX | Not done
 ---------------------------------------------------------
 
 ### Aflevering ###
-Service | Status 
+
+Service | Status
 ------------ | ------------- 
 Kode/projekt på Github | Not done				
 Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Not done
