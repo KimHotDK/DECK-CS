@@ -25,8 +25,7 @@ SPA | Kim | Not done
 
 Service | Hvor/Hvis | Status | 
 ------------ | ------------- | ------------- 
-Server/MySQL server | Kim | Server er installeret og der er remote acces
-User: CA2
+Server/MySQL server | Kim | Server er installeret og der er remote acces - User: CA2
 Backend/Tomcat | XXXXX | Not done
 SPA | XXXXX | Not done
 
