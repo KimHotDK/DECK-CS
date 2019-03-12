@@ -1,4 +1,4 @@
-<img src="Banner-top-DCS.png" width="500" align="center"/>  
+<img src="Banner-top-DCS.png" width="700" align="center"/>  
 
 ## Aflevering søndag d. 17/03-2019 kl. 23:59 ##
 
