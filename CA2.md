@@ -29,7 +29,7 @@ SPA | XXXXX | Not done
 
 - Day-1+2: Before the end of day-2, you should have a working restful API.		
 - Day 3+4: Complete the Front-end, missing back-end parts and deploy the system
-
+------------------------------------------------------------------------------------
 - Dag 1	Design dine entity klasser, tabeller og facade(r)										
 - Dag 2	Design REST API, Error Handling, Implement the REST API
 - Dag 3	Design et SPA ved hjælp af almindeligt JavaScript, der bruger API'en	
