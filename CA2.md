@@ -6,7 +6,9 @@
 [Link til opgavebeskrivelsen:](https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit#heading=h.aefrpf5cy8p)
 
 ### Github projekt: ###
-[Link til Github Repository](https://) 
+[Link til Github Repository - CA2 API](https://github.com/Edunno/CA2)
+
+[Link til Github Repository - CA2_SPA](https://github.com/KimHotDK/CA2_SPA) 
 
 ---------------------------------------------------------
 ### Opgaver ###
