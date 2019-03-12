@@ -28,17 +28,21 @@ Service | Hvor/Hvis | Status |
 Server/MySQL server	| XXXXX | Not done
 Backend/Tomcat | XXXXX | Not done
 SPA | XXXXX | Not done
-											
+
+---------------------------------------------------------
+
 ### Sprint ###
 - Dag 1 + 2: Inden udgangen af dag 2 skal du have et fuldt dungerende API.
 - Dag 3 + 4: Afslut Front-End, Manglende back-end dele og implementer systemet
----------------------------------------------------------
+
 #### Dag for dag ####
 - Dag 1	Design dine entity klasser, tabeller og facade(r)										
 - Dag 2	Design REST API, Error Handling, Implement the REST API
 - Dag 3	Design et SPA ved hjælp af almindeligt JavaScript, der bruger API'en	
 - Dag 4	Lav de manglende dele og implementer projektet.										
+
 ---------------------------------------------------------
+
 ### Aflevering ###
 Service | Status 
 ------------ | ------------- 
@@ -46,7 +50,9 @@ Kode/projekt på Github | Not done
 Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Not done
 Dit webprogram skal indeholde et link til en dokumentationsside / et dokument, som som minimum skal indeholde din komplette beskrivelse af API'en (Metoder, URL'er og json-format for de enkelte anmodninger) | Not done
 Du forventes at kunne forklare designvalg, du har lavet. For eksempel bør brugen af uni / bi-directional forhold være klart for dig. | Not done
+
 ---------------------------------------------------------
+
 ### Link til individuelle Github's: ###
 [Link til Dan](https://github.com/godlikecpu) 
 
