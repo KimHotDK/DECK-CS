@@ -1,12 +1,14 @@
 <img src="Banner-top-DCS.png" width="700" align="center"/>  
 
 ## Aflevering søndag d. 17/03-2019 kl. 23:59 ##
+---------------------------------------------------------
 
 [Link til opgave beskrivelsen:](https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit#heading=h.aefrpf5cy8p)
 
 ### Demo: ###
 [Link til Github Repository](https://) 
 
+---------------------------------------------------------
 ### Opgaver ###
 
 Opgave | Hvem | Status | 
@@ -36,7 +38,7 @@ SPA | XXXXX | Not done
 - Dag 2	Design REST API, Error Handling, Implement the REST API
 - Dag 3	Design et SPA ved hjælp af almindeligt JavaScript, der bruger API'en	
 - Dag 4	Lav de manglende dele og implementer projektet.										
-
+---------------------------------------------------------
 ### Aflevering ###
 Service | Status 
 ------------ | ------------- 
@@ -44,7 +46,7 @@ Kode/projekt på Github | Not done
 Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Not done
 Dit webprogram skal indeholde et link til en dokumentationsside / et dokument, som som minimum skal indeholde din komplette beskrivelse af API'en (Metoder, URL'er og json-format for de enkelte anmodninger) | Not done
 Du forventes at kunne forklare designvalg, du har lavet. For eksempel bør brugen af uni / bi-directional forhold være klart for dig. | Not done
-
+---------------------------------------------------------
 ### Link til individuelle Github's: ###
 [Link til Dan](https://github.com/godlikecpu) 
 
