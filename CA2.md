@@ -25,7 +25,8 @@ Dokumentation | XXXXX | Not done
 Error handling | XXXXX | Not done		
 Restful API | Dan | Not done	
 DTO's | XXXXX | Not done
-SPA | Kim | Not done
+SPA | Kim | Almost done
+Javascript | XXXXX | Not done
 											
 ### Struktur ###
 
