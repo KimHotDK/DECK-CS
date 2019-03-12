@@ -1,4 +1,4 @@
-<img src="Banner-top-DCS.png" width="300" align="center"/>  
+<img src="Banner-top-DCS.png" width="500" align="center"/>  
 
 ## Aflevering søndag d. 17/03-2019 kl. 23:59 ##
 
@@ -44,3 +44,17 @@ Kode/projekt på Github | Not done
 Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Not done
 Dit webprogram skal indeholde et link til en dokumentationsside / et dokument, som som minimum skal indeholde din komplette beskrivelse af API'en (Metoder, URL'er og json-format for de enkelte anmodninger) | Not done
 Du forventes at kunne forklare designvalg, du har lavet. For eksempel bør brugen af uni / bi-directional forhold være klart for dig. | Not done
+
+### Link til individuelle Github's: ###
+[Link til Dan](https://github.com/godlikecpu) 
+
+[Link til Esben](https://github.com/Edunno) 
+
+[Link til Casper](https://github.com/Marx02) 
+
+[Link til Kim](https://github.com/KimHotDK) 
+
+### Link to DECK-CS group agreement :
+[Link til gruppens aftaledokument](https://docs.google.com/document/d/1uSLKk3kQAV3UQ0Y1XKtVFQ_YJ_gXrON00-IDqS8o5s4/edit?usp=sharing) 
+
+**DECK-CS ©2019**
