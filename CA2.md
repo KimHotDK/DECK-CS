@@ -13,19 +13,20 @@
 
 Opgave | Hvem | Status | 
 ------------ | ------------- | ------------- 							
-JPA | XXXXX | Not done
-Junit/Tests | XXXXX | Not done
+JPA | Esben + Dan | Not done
+Junit/Tests | Esben | Not done
 Dokumentation | XXXXX | Not done
 Error handling | XXXXX | Not done		
-Restful API | XXXXX | Not done	
+Restful API | Dan | Not done	
 DTO's | XXXXX | Not done
-SPA | XXXXX | Not done
+SPA | Kim | Not done
 											
 ### Struktur ###
 
 Service | Hvor/Hvis | Status | 
 ------------ | ------------- | ------------- 
-Server/MySQL server	| XXXXX | Not done
+Server/MySQL server | Kim | Server er installeret og der er remote acces
+User: CA2
 Backend/Tomcat | XXXXX | Not done
 SPA | XXXXX | Not done
 
