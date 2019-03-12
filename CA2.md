@@ -12,7 +12,7 @@
 
 ### Diverse links ###
 
-[API Documentation](https://docs.google.com/spreadsheets/d/1Xd05O8lQSPbRX9c_u80ilQiFTlM0KEhtWvrSwxbFiWM/edit?usp=sharing)
+[Link til API Documentation](https://docs.google.com/spreadsheets/d/1Xd05O8lQSPbRX9c_u80ilQiFTlM0KEhtWvrSwxbFiWM/edit?usp=sharing)
 
 ---------------------------------------------------------
 ### Opgaver ###
