@@ -14,6 +14,8 @@
 
 [Link til API Documentation](https://docs.google.com/spreadsheets/d/1Xd05O8lQSPbRX9c_u80ilQiFTlM0KEhtWvrSwxbFiWM/edit?usp=sharing)
 
+[Link til DB script SQL](https://github.com/KimHotDK/DECK-CS/blob/master/CA2_DB_script.sql)
+
 ---------------------------------------------------------
 ### Opgaver ###
 
