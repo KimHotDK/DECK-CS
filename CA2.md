@@ -21,21 +21,21 @@
 
 Opgave | Hvem | Status | 
 ------------ | ------------- | ------------- 							
-JPA | Esben + Dan | Not done
-Junit/Tests | Esben | Not done
-Dokumentation | XXXXX | Not done
-Error handling | XXXXX | Not done		
+JPA | Esben + Dan | Done
+Junit/Tests | Esben | Done
+Dokumentation | XXXXXXX | Not done
+Error handling | Kim + Dan | Not working		
 Restful API | Dan | Not done	
-DTO's | XXXXX | Not done
+DTO's | DAN + Casper | Done
 SPA | Kim | Almost done
-Javascript | XXXXX | Not done
+Javascript | Kim | Almost done
 											
 ### Struktur ###
 
 Service | Hvor/Hvis | Status | 
 ------------ | ------------- | ------------- 
 Server/MySQL server | Kim | Server er installeret og der er remote acces - User: CA2
-Backend/Tomcat | XXXXX | Not done
+Backend/Tomcat | Casper | Not done
 SPA | XXXXX | Not done
 
 ---------------------------------------------------------
