@@ -6,9 +6,9 @@
 [Link til opgavebeskrivelsen:](https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit#heading=h.aefrpf5cy8p)
 
 ### Link til SPA & API ###
-[Link til SPA](https://testprogram.dk/CA2/)
-
 [Link til API](https://manbearpig.dk/CA2/)
+
+[Link til SPA](https://testprogram.dk/CA2/)
 
 ### Github projekt: ###
 [Link til Github Repository - CA2 API](https://github.com/Marx02/CA2-backend)
