@@ -40,7 +40,7 @@ Javascript | Kim | Done
 Service | Hvor/Hvis | Status | 
 ------------ | ------------- | ------------- 
 Server/MySQL server | Kim | Server er installeret og der er remote acces - User: CA2
-Backend/Tomcat | Casper | Not done
+Backend/Tomcat | Casper | Done
 SPA | Kim | Done - [SPA](https://testprogram.dk/CA2/)
 
 ---------------------------------------------------------
