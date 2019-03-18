@@ -28,12 +28,12 @@ Opgave | Hvem | Status |
 ------------ | ------------- | ------------- 							
 JPA | Esben + Dan | Done
 Junit/Tests | Esben | Done
-Dokumentation | XXXXXXX | Not done
+Dokumentation | Kim + Dan | Done
 Error handling | Kim + Dan | Not working		
-Restful API | Dan | Not done	
+Restful API | Dan | Done	
 DTO's | DAN + Casper | Done
-SPA | Kim | Almost done
-Javascript | Kim | Almost done
+SPA | Kim | Done
+Javascript | Kim | Done
 											
 ### Struktur ###
 
@@ -41,7 +41,7 @@ Service | Hvor/Hvis | Status |
 ------------ | ------------- | ------------- 
 Server/MySQL server | Kim | Server er installeret og der er remote acces - User: CA2
 Backend/Tomcat | Casper | Not done
-SPA | XXXXX | Not done
+SPA | Kim | Done - [SPA](https://testprogram.dk/CA2/)
 
 ---------------------------------------------------------
 
@@ -61,10 +61,10 @@ SPA | XXXXX | Not done
 
 Service | Status
 ------------ | ------------- 
-Kode/projekt på Github | Not done				
-Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Not done
-Dit webprogram skal indeholde et link til en dokumentationsside / et dokument, som som minimum skal indeholde din komplette beskrivelse af API'en (Metoder, URL'er og json-format for de enkelte anmodninger) | Not done
-Du forventes at kunne forklare designvalg, du har lavet. For eksempel bør brugen af uni / bi-directional forhold være klart for dig. | Not done
+Kode/projekt på Github | Done				
+Din webapplikation skal være tilgængelig via et personligt domænenavn og kun tilgængelig via https. | Done
+Dit webprogram skal indeholde et link til en dokumentationsside / et dokument, som som minimum skal indeholde din komplette beskrivelse af API'en (Metoder, URL'er og json-format for de enkelte anmodninger) | Done
+Du forventes at kunne forklare designvalg, du har lavet. For eksempel bør brugen af uni / bi-directional forhold være klart for dig. | Done
 
 ---------------------------------------------------------
 
