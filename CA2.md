@@ -26,14 +26,14 @@
 
 Opgave | Hvem | Status | 
 ------------ | ------------- | ------------- 							
-JPA | Esben + Dan | Done
+JPA | Esben + Dan + Casper  | Done
 Junit/Tests | Esben | Done
 Dokumentation | Kim + Dan | Done
 Error handling | Kim + Dan | Not working		
-Restful API | Dan | Done	
+Restful API | Esben + Dan + Casper | Done	
 DTO's | DAN + Casper | Done
 SPA | Kim | Done
-Javascript | Kim | Done
+Javascript | Kim (+ lilleDan) | Done
 											
 ### Struktur ###
 
