@@ -37,18 +37,16 @@ DROP TABLE IF EXISTS `CA2_DB`.`address` ;
 
 CREATE TABLE IF NOT EXISTS `CA2_DB`.`address` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
-  `street` VARCHAR(45) NULL DEFAULT NULL,
   `additionalinfo` VARCHAR(45) NULL DEFAULT NULL,
-  `zip` INT(11) NULL DEFAULT NULL,
+  `street` VARCHAR(45) NULL DEFAULT NULL,
+  `CITYINFO_zip` INT(11) NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
-  INDEX `zip_fk_idx` (`zip` ASC),
-  CONSTRAINT `zip_fk`
-    FOREIGN KEY (`zip`)
-    REFERENCES `CA2_DB`.`CITYINFO` (`zip`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  INDEX `FK_address_CITYINFO_zip` (`CITYINFO_zip` ASC),
+  CONSTRAINT `FK_address_CITYINFO_zip`
+    FOREIGN KEY (`CITYINFO_zip`)
+    REFERENCES `CA2_DB`.`CITYINFO` (`zip`))
 ENGINE = InnoDB
-AUTO_INCREMENT = 2
+AUTO_INCREMENT = 490
 DEFAULT CHARACTER SET = latin1;
 
 
@@ -59,11 +57,11 @@ DROP TABLE IF EXISTS `CA2_DB`.`hobby` ;
 
 CREATE TABLE IF NOT EXISTS `CA2_DB`.`hobby` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `description` VARCHAR(200) NULL DEFAULT NULL,
   `name` VARCHAR(45) NULL DEFAULT NULL,
-  `description` VARCHAR(45) NULL DEFAULT NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB
-AUTO_INCREMENT = 2
+AUTO_INCREMENT = 35
 DEFAULT CHARACTER SET = latin1;
 
 
@@ -77,16 +75,14 @@ CREATE TABLE IF NOT EXISTS `CA2_DB`.`person` (
   `email` VARCHAR(45) NULL DEFAULT NULL,
   `firstname` VARCHAR(45) NULL DEFAULT NULL,
   `lastname` VARCHAR(45) NULL DEFAULT NULL,
-  `address_id` INT(11) NULL DEFAULT NULL,
+  `ADDRESS_id` INT(11) NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
-  INDEX `address_fkk_idx` (`address_id` ASC),
-  CONSTRAINT `address_fkk`
-    FOREIGN KEY (`address_id`)
-    REFERENCES `CA2_DB`.`address` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  INDEX `FK_person_ADDRESS_id` (`ADDRESS_id` ASC),
+  CONSTRAINT `FK_person_ADDRESS_id`
+    FOREIGN KEY (`ADDRESS_id`)
+    REFERENCES `CA2_DB`.`address` (`id`))
 ENGINE = InnoDB
-AUTO_INCREMENT = 2
+AUTO_INCREMENT = 369
 DEFAULT CHARACTER SET = latin1;
 
 
@@ -96,20 +92,16 @@ DEFAULT CHARACTER SET = latin1;
 DROP TABLE IF EXISTS `CA2_DB`.`person_has_hobby` ;
 
 CREATE TABLE IF NOT EXISTS `CA2_DB`.`person_has_hobby` (
-  `person_id` INT(11) NOT NULL,
   `hobby_id` INT(11) NOT NULL,
-  PRIMARY KEY (`person_id`, `hobby_id`),
-  INDEX `hobby_fk_idx` (`hobby_id` ASC),
-  CONSTRAINT `hobby_fk`
+  `person_id` INT(11) NOT NULL,
+  PRIMARY KEY (`hobby_id`, `person_id`),
+  INDEX `FK_person_has_hobby_person_id` (`person_id` ASC),
+  CONSTRAINT `FK_person_has_hobby_hobby_id`
     FOREIGN KEY (`hobby_id`)
-    REFERENCES `CA2_DB`.`hobby` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `person_fk`
+    REFERENCES `CA2_DB`.`hobby` (`id`),
+  CONSTRAINT `FK_person_has_hobby_person_id`
     FOREIGN KEY (`person_id`)
-    REFERENCES `CA2_DB`.`person` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    REFERENCES `CA2_DB`.`person` (`id`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = latin1;
 
@@ -120,17 +112,14 @@ DEFAULT CHARACTER SET = latin1;
 DROP TABLE IF EXISTS `CA2_DB`.`phone` ;
 
 CREATE TABLE IF NOT EXISTS `CA2_DB`.`phone` (
-  `number` INT(11) NOT NULL,
+  `pnumber` INT(11) NOT NULL,
   `description` VARCHAR(45) NULL DEFAULT NULL,
   `person_id` INT(11) NULL DEFAULT NULL,
-  PRIMARY KEY (`number`),
-  INDEX `person_fk_idx` (`person_id` ASC),
-  INDEX `phone_fksdasd_idx` (`person_id` ASC),
-  CONSTRAINT `phone_fksdasd`
+  PRIMARY KEY (`pnumber`),
+  INDEX `FK_phone_person_id` (`person_id` ASC),
+  CONSTRAINT `FK_phone_person_id`
     FOREIGN KEY (`person_id`)
-    REFERENCES `CA2_DB`.`person` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    REFERENCES `CA2_DB`.`person` (`id`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = latin1;
 
@@ -138,4 +127,3 @@ DEFAULT CHARACTER SET = latin1;
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
-
