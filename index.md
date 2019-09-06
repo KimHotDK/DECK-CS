@@ -1,6 +1,8 @@
 <img src="Banner-top-DCS.png" width="700"/>  
 
-#This page is for the group DECK-CS.#
+
+#This page is for the group DECK-CS.
+
 It will be used for the group during 3. semester at CPH Business Academy.
 
 ### Week review:
