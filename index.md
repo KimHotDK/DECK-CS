@@ -1,3 +1,5 @@
+<img src="Banner-top-DCS.png" width="700" align="center"/>  
+
 This repository is for the group DECK-CS.
 It will be used for the group during 3. semester at CPH Business Academy.
 
