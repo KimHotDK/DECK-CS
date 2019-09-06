@@ -1,4 +1,4 @@
-<img src="Banner-top-DCS.png" width="700" align="left"/>  
+<img src="Banner-top-DCS.png" width="700" />  
 
 
 ## This page is for the group DECK-CS.
